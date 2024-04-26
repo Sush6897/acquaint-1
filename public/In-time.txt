@@ -1,0 +1,21 @@
+EMP_CODE, NAME, EMAIL, DATE, IN_TIME
+1, John, john@yahoo.com, 2022/08/09, 9:00
+2, Peter, peter@yahoo.com, 2022/08/09, 9:05
+3, Mark, mark@yahoo.com, 2022/08/09, 9:10
+4, Sandra, sandra@yahoo.com, 2022/08/09, 9:01
+5, Kyle, kyle@yahoo.com, 2022/08/09, 10:00
+6, Rachel, rachel@yahoo.com, 2022/08/09, 9:30
+7, Marcus, marcus@yahoo.com, 2022/08/09, 9:04
+8, Ram, ram@yahoo.com, 2022/08/09, 9:02
+9, Max, max@yahoo.com, 2022/08/09, 9:14
+10, Sam, sam@yahoo.com, 2022/08/09, 9:15
+1, John, john@yahoo.com, 2022/08/09, 14:00
+2, Peter, peter@yahoo.com, 2022/08/09, 13:45
+3, Mark, mark@yahoo.com, 2022/08/09, 14:05
+4, Sandra, sandra@yahoo.com, 2022/08/09, 13:30
+5, Kyle, kyle@yahoo.com, 2022/08/09, 14:00
+7, Marcus, marcus@yahoo.com, 2022/08/09, 14:45
+8, Ram, ram@yahoo.com, 2022/08/09, 14:00
+9, Max, max@yahoo.com, 2022/08/09, 14:00
+
+
